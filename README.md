@@ -9,14 +9,15 @@ The students will have to give various mid-term presentations on their progress.
 
 ## Tools
 
-* [SNAP2](https://github.com/Rostlab/SNAP2) -- Linda & Andre -- `svn+ssh://rostlab.org/mnt/project/subversion/snap2/trunk`
-* [LocTree (3)](https://github.com/Rostlab/LocTree) -- Sonja & Alejandro -- `svn+ssh://rostlab.org/mnt/project/subversion/loctree3/trunk/`
-* [MetaDisorder](https://github.com/Rostlab/MetaDisorder) -- Sirma & Irem -- `	svn+ssh://rostlab.org/mnt/project/subversion/MD/trunk`
-* [MetaStudent](https://github.com/Rostlab/MetaStudent) -- Ansh & Ana -- `svn+ssh://rostlab.org/mnt/project/subversion/metastudent` & `svn+ssh://rostlab.org/mnt/project/subversion/metastudent/metastudent-data` & `svn+ssh://rostlab.org/mnt/project/subversion/metastudent/metastudent-data-2`
-* [someNA](https://github.com/Rostlab/someNA) -- Christian & Dimitri -- **@T1mK cannot find it**
-* [TMSEG](https://github.com/Rostlab/TMSEQ) -- Muriel & Cyril -- **@T1mK cannot find it**
-* [PROFsec](https://github.com/Rostlab/PROFsec) -- Roc & Cristina -- **@T1mK cannot fin it**, however, I can find that for `reprof`, which is supposedly a newer better version. The repos for this are (svn) `svn+ssh://rostlab.org/mnt/project/subversion/reprof` and surprisingly it's supposedly already on github: `https://github.com/martin-steinegger/reprof`
-* consurf -- Manuel & Saion (???)
+_See [this HOWTO](https://github.com/Rostlab/PP2_CS_WS_2015-16/wiki/HOWTO-access-rostlab-svn-repos) to access the original svn repos_
+
+* [SNAP2](https://github.com/Rostlab/SNAP2) -- Linda & Andre
+* [LocTree (3)](https://github.com/Rostlab/LocTree) -- Sonja & Alejandro
+* [MetaDisorder](https://github.com/Rostlab/MetaDisorder) -- Sirma & Irem
+* [MetaStudent](https://github.com/Rostlab/MetaStudent) -- Ansh & Ana & Manuel
+* [someNA](https://github.com/Rostlab/someNA) -- Christian & Dimitri
+* [TMSEG](https://github.com/Rostlab/TMSEQ) -- Muriel & Cyril
+* [PROFsec](https://github.com/Rostlab/PROFsec) -- Roc & Cristina
 
 These are the most important tools developed in Rostlab for the PredictProtein service. Current documentation and code of the tools (some deprecated or not updated) can be found in:
 
@@ -52,9 +53,7 @@ These are the most important tools developed in Rostlab for the PredictProtein s
 
 ### Documentation
 
-* [HOWTO move from svn to git](https://git-scm.com/book/it/v2/Git-and-Other-Systems-Migrating-to-Git) -- May be necessary to check other tutorials
-* [Rostlab current and past members](https://rostlab.org/group/people) (for git email addresses) -- Default email address: juanmi@jmcejuela.com
-* For a virtual machine, use [Vagrant](www.vagrantup.com/) with a Debian Wheezy image
+[See the this repo wiki](https://github.com/Rostlab/PP2_CS_WS_2015-16/wiki)
 
 
 ### Slides
