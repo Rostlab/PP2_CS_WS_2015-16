@@ -2,7 +2,7 @@ This repository holds open discussions and documentation for the [class](http://
 
 ## Exercise
 
-Students in groups will improve and move Rostlab most important tools' code and documentation to GitHub. Purpose: improve their usability and discoverability. As for motivation for students, all their contributions will be visible on Rostlab's GitHub organization.
+Students in groups will improve and move Rostlab most important tools' code and documentation to GitHub. Purpose: improve their usability and discoverability. As for motivation for students, all their contributions will be visible on [Rostlab's GitHub organization](https://github.com/Rostlab). Furthermore, the discussions in the exercises will lead to questions in the final exam.
 
 The students will have to give various mid-term presentations on their progress. An important milestone will be to successfully run the tools on their own and provide installation and run instructions for other users. The students will also have to understand and explain how the tools work, their utility, and their biological significance. This includes giving short introductions to topics such as: machine learning methods, biological or bioinformatics concepts, databases, file formats, etc. Lastly, considering the scientific nature of the tools, peer-reviewed citations, benchmarks and comparisons with other similar tools will also have to be included in the documentation.
 
