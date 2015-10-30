@@ -9,13 +9,13 @@ The students will have to give various mid-term presentations on their progress.
 
 ## Tools
 
-* [SNAP2](https://github.com/Rostlab/SNAP2) -- Linda & Andre
-* [LocTree (3)](https://github.com/Rostlab/LocTree) -- Sonja & Alejandro
-* [MetaDisorder](https://github.com/Rostlab/MetaDisorder) -- Sirma & Irem
-* [MetaStudent](https://github.com/Rostlab/MetaStudent) -- Ansh & Ana
-* [someNA](https://github.com/Rostlab/someNA) -- Christian & Dimitri
-* [TMSEQ](https://github.com/Rostlab/TMSEQ) -- Muriel & Cyril
-* [PROFsec](https://github.com/Rostlab/PROFsec) -- Roc & Cristina
+* [SNAP2](https://github.com/Rostlab/SNAP2) -- Linda & Andre -- `svn+ssh://rostlab.org/mnt/project/subversion/snap2/trunk`
+* [LocTree (3)](https://github.com/Rostlab/LocTree) -- Sonja & Alejandro -- `svn+ssh://rostlab.org/mnt/project/subversion/loctree3/trunk/`
+* [MetaDisorder](https://github.com/Rostlab/MetaDisorder) -- Sirma & Irem -- `	svn+ssh://rostlab.org/mnt/project/subversion/MD/trunk`
+* [MetaStudent](https://github.com/Rostlab/MetaStudent) -- Ansh & Ana -- `svn+ssh://rostlab.org/mnt/project/subversion/metastudent` & `svn+ssh://rostlab.org/mnt/project/subversion/metastudent/metastudent-data` & `svn+ssh://rostlab.org/mnt/project/subversion/metastudent/metastudent-data-2`
+* [someNA](https://github.com/Rostlab/someNA) -- Christian & Dimitri -- **@T1mK cannot find it**
+* [TMSEG](https://github.com/Rostlab/TMSEQ) -- Muriel & Cyril -- **@T1mK cannot find it**
+* [PROFsec](https://github.com/Rostlab/PROFsec) -- Roc & Cristina -- **@T1mK cannot fin it**, however, I can find that for `reprof`, which is supposedly a newer better version. The repos for this are (svn) `svn+ssh://rostlab.org/mnt/project/subversion/reprof` and surprisingly it's supposedly already on github: `https://github.com/martin-steinegger/reprof`
 * consurf -- Manuel & Saion (???)
 
 These are the most important tools developed in Rostlab for the PredictProtein service. Current documentation and code of the tools (some deprecated or not updated) can be found in:
@@ -40,7 +40,7 @@ These are the most important tools developed in Rostlab for the PredictProtein s
   * ~~Where is the code?~~ obviously now in the respective GitHub repos. [Please update Rostlab's open wiki links](https://rostlab.org/owiki/index.php/Packages)
   * Is there a man page?
 * Improve usability aspects
-  * Documentation goes to README.md
+  * Documentation goes to `README.md`. [See a template for it](https://github.com/Rostlab/PP2_CS_WS_2015-16/wiki/README.md-Template)
   * If large attachments are needed, these will go to the repo wiki
   * Few small code fixes if necessary
   * After all improvements, any external user should be able to run the tools on their own with the provided instructions.
