@@ -55,3 +55,8 @@ These are the most important tools developed in Rostlab for the PredictProtein s
 * [HOWTO move from svn to git](https://git-scm.com/book/it/v2/Git-and-Other-Systems-Migrating-to-Git) -- May be necessary to check other tutorials
 * [Rostlab current and past members](https://rostlab.org/group/people) (for git email addresses) -- Default email address: juanmi@jmcejuela.com
 * For a virtual machine, use [Vagrant](www.vagrantup.com/) with a Debian Wheezy image
+
+
+### Slides
+
+Refer back to the [class page](http://tinyurl.com/ntzqv46)
