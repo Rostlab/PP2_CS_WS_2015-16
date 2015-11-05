@@ -28,11 +28,11 @@ These are the most important tools developed in Rostlab for the PredictProtein s
 
 ### Work
 
-* Move code & documentation to GitHub
+* [x] Move code & documentation to GitHub
   * Move repositories from svn to git conserving all history (this will be verified!)
   * Move to GitHub
   * Remove possible passwords or sensible data (likely done internally by Juan Miguel Cejuela, Timothy Karl, and Lothar Richter)
-* Check usability (create github issues for all errors you find)
+* [ ] Check usability (create github issues for all errors you find)
   * Installable on Debian? (see below the Documentation, for a virtual machine)
   * Works on Mac OS X ?
   * Understandable?
@@ -40,15 +40,15 @@ These are the most important tools developed in Rostlab for the PredictProtein s
   * Ease of use?
   * ~~Where is the code?~~ obviously now in the respective GitHub repos. [Please update Rostlab's open wiki links](https://rostlab.org/owiki/index.php/Packages)
   * Is there a man page?
-* Improve usability aspects
+* [ ] Improve usability aspects
   * Documentation goes to `README.md`. [See a template for it](https://github.com/Rostlab/PP2_CS_WS_2015-16/wiki/README.md-Template)
   * If large attachments are needed, these will go to the repo wiki
   * Few small code fixes if necessary
   * After all improvements, any external user should be able to run the tools on their own with the provided instructions.
-* Show:
+* [ ] Show:
   * Demo run
   * Mid-presentations: how the method works, theory behind, training or validation process, machine learning methods, ...
-* [Register tool into Elixir](https://elixir-registry.cbs.dtu.dk/?q=rostlab)
+* [ ] [Register tool into Elixir](https://elixir-registry.cbs.dtu.dk/?q=rostlab)
 
 
 ### Documentation
