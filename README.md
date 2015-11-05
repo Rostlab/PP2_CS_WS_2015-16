@@ -18,6 +18,7 @@ _See [this HOWTO](https://github.com/Rostlab/PP2_CS_WS_2015-16/wiki/HOWTO-access
 * [someNA](https://github.com/Rostlab/someNA) -- Christian & Dimitri
 * [TMSEG](https://github.com/Rostlab/TMSEQ) -- Muriel & Cyril
 * [PROFsec](https://github.com/Rostlab/PROFsec) -- Roc & Cristina
+* [ConSurf](https://github.com/Rostlab/ConSurf) -- Ilya
 
 These are the most important tools developed in Rostlab for the PredictProtein service. Current documentation and code of the tools (some deprecated or not updated) can be found in:
 
