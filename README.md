@@ -39,13 +39,13 @@ These are the most important tools developed in Rostlab for the PredictProtein s
   * Understandable?
   * Is there Documentation? Can be improved?
   * Ease of use?
-  * ~~Where is the code?~~ obviously now in the respective GitHub repos. [Please update Rostlab's open wiki links](https://rostlab.org/owiki/index.php/Packages)
   * Is there a man page?
 * [ ] Improve usability aspects
   * Documentation goes to `README.md`. [See a template for it](https://github.com/Rostlab/PP2_CS_WS_2015-16/wiki/README.md-Template)
   * If large attachments are needed, these will go to the repo wiki
   * Few small code fixes if necessary
   * After all improvements, any external user should be able to run the tools on their own with the provided instructions.
+  * Likely done by Juanmi: [update Rostlab's open wiki links](https://rostlab.org/owiki/index.php/Packages) (thanks to the info provided by the students)
 * [ ] Show:
   * Demo run
   * Mid-presentations: how the method works, theory behind, training or validation process, machine learning methods, ...
