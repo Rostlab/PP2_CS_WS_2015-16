@@ -33,7 +33,7 @@ These are the most important tools developed in Rostlab for the PredictProtein s
   * Move repositories from svn to git conserving all history (this will be verified!)
   * Move to GitHub
   * Remove possible passwords or sensible data (likely done internally by Juan Miguel Cejuela, Timothy Karl, and Lothar Richter)
-* [ ] Check usability (create github issues for all errors you find)
+* [x] Check usability (create github issues for all errors you find)
   * Installable on Debian? (see below the Documentation, for a virtual machine)
   * Works on Mac OS X ?
   * Understandable?
